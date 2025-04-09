@@ -1,0 +1,3 @@
+C:/Users/ErickBernardo/CLionProjects/Trunfo/cmake-build-debug/CMakeFiles/Trunfo.dir
+C:/Users/ErickBernardo/CLionProjects/Trunfo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ErickBernardo/CLionProjects/Trunfo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
