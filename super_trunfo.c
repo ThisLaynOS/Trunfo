@@ -87,7 +87,7 @@ int main() {
     // e multipliquei o PIB (em bilhões) por 1 bilhão (1e9) para converter para valor unitário em reais,
     // obtendo assim o PIB per capita correto em reais por habitante
     printf(
-        "_-_-_-_-_-_- Carta 1 _-_-_-_-_-_- \n"
+        "_-_-_-_-_-_- Carta 2 _-_-_-_-_-_- \n"
         "- Estado: %s\n"
         "- Codigo da carta: %s\n"
         "- Cidade: %s\n"
